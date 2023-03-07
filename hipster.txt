@@ -12,3 +12,6 @@ Want to get better at JavaScript? I wrote a free step-by-step guide to build a m
 
 
 Hello change added to the hipster file
+
+
+more text added after the above change
