@@ -1,8 +1,0 @@
-We can see that a module configuration file is actually a simple JSON containing the following members:
-
-author: The name of the author of the module,
-name: The "Fancy name" of the module,
-id: The unique id of the module (prefixed with h5bp- or izr- if it's from HTML5 Boilerplate or Initializr),
-incompatibilities: An array of modules ids that can't be used with this one.
-inserts: An array of insertions of code snippets or files with the following fields:
-what: What code snippet or file is going to be included in the archive (refers to an other file of the same module folder),
